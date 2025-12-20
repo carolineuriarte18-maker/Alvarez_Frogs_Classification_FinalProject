@@ -46,7 +46,9 @@ Below are sample screenshots of the frog classification application, showing the
 
 <p align="center">
   <img src="AppScreenshots/homepage.jpg" width="250" alt="Home Screen">
+  
   <img src="AppScreenshots/camera.jpg" width="250" alt="Camera View">
+  
   <img src="AppScreenshots/detection_result2.jpg" width="250" alt="Detection Result">
 </p>
 
