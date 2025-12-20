@@ -24,20 +24,23 @@ This project was created to:
 
 ## 🐸 Frog Species Reference Table
 
-This table shows the frog species this model can classify. Each entry includes a thumbnail, common name, scientific name, and a brief description.
+This table shows the frog species this model can classify. Each entry includes an images, common name, scientific name, and a brief description.
 
-| **Image** | **Class Name** | **Scientific Name** | **Description** |
-|------------|----------------|---------------------|------------------|
-| ![American Bullfrog](CodesFinalApp/assets/images/american_bullfrog.jpg) | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak; found in freshwater ponds and lakes. |
-| ![Poison Dart Frog](poison_dart_frog.jpg) | **Poison Dart Frog** | *Dendrobatidae* (family) | Brightly colored small frogs with potent skin toxins, living in tropical forests. :contentReference[oaicite:0]{index=0} |
-| ![Desert Rain Frog](https://via.placeholder.com/60) | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal environments. |
-| ![Glass Frog](https://via.placeholder.com/60) | **Glass Frog** | *Hyalinobatrachium fleischmanni* | Semi-transparent skin reveals internal organs; arboreal forest frog. :contentReference[oaicite:1]{index=1} |
-| ![Green Tree Frog](https://via.placeholder.com/60) | **Green Tree Frog** | *Hyla cinerea* / similar | Bright green tree-dwelling frog with sticky toe pads. |
-| ![Red-eyed Tree Frog](https://via.placeholder.com/60) | **Red-eyed Tree Frog** | *Agalychnis callidryas* | Vivid green frog with red eyes, active at night.  |
-| ![Golden Poison Frog](https://via.placeholder.com/60) | **Golden Poison Frog** | *Phyllobates terribilis* | One of the most toxic frogs in the world, with striking yellow coloration. :contentReference[oaicite:3]{index=3} |
-| ![Northern Leopard Frog](https://via.placeholder.com/60) | **Northern Leopard Frog** | *Lithobates pipiens* | Spotted frog common in wetlands and grasslands. |
-| ![Wood Frog](https://via.placeholder.com/60) | **Wood Frog** | *Lithobates sylvaticus* | Forest frog with a mask-like stripe; can tolerate freezing. |
-| ![Surinam Horned Frog](https://via.placeholder.com/60) | **Surinam Horned Frog** | *Ceratophrys cornuta* | Large ambush-predator frog with horn-like features. :contentReference[oaicite:4]{index=4} |
+## 🐸 Frog Species Reference Table
+
+| Image | Class Name | Scientific Name | Description |
+|------|------------|------------------|-------------|
+| <img src="CodesFinalApp/assets/images/american_bullfrog.jpg" width="60"> | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak and freshwater habitat. |
+| <img src="CodesFinalApp/assets/images/poison_dart_frog.jpg" width="60"> | **Poison Dart Frog** | *Dendrobatidae* | Brightly colored frogs with toxic skin secretions. |
+| <img src="CodesFinalApp/assets/images/desert_rain_frog.jpg" width="60"> | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal deserts. |
+| <img src="CodesFinalApp/assets/images/glass_frog.jpg" width="60"> | **Glass Frog** | *Centrolenidae* | Frog with semi-transparent belly skin. |
+| <img src="CodesFinalApp/assets/images/green_tree_frog.jpg" width="60"> | **Green Tree Frog** | *Hyla cinerea* | Arboreal frog with sticky toe pads for climbing. |
+| <img src="CodesFinalApp/assets/images/red_eyed_tree_frog.jpg" width="60"> | **Red-eyed Tree Frog** | *Agalychnis callidryas* | Green frog with red eyes, active at night. |
+| <img src="CodesFinalApp/assets/images/golden_poison_frog.jpg" width="60"> | **Golden Poison Frog** | *Phyllobates terribilis* | One of the most toxic animals in the world. |
+| <img src="CodesFinalApp/assets/images/northern_leopard_frog.jpg" width="60"> | **Northern Leopard Frog** | *Lithobates pipiens* | Spotted frog found in wetlands and grasslands. |
+| <img src="CodesFinalApp/assets/images/wood_frog.jpg" width="60"> | **Wood Frog** | *Lithobates sylvaticus* | Forest frog that can survive freezing temperatures. |
+| <img src="CodesFinalApp/assets/images/surinam_horned_frog.jpg" width="60"> | **Surinam Horned Frog** | *Ceratophrys cornuta* | Large ambush predator with horn-like eye projections. |
+
 
 ---
 
