@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814863523118",
+    "project_id": "jersey-identificator",
+    "storage_bucket": "jersey-identificator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814863523118:android:02a8f97e07f09abcc6eebf",
+        "android_client_info": {
+          "package_name": "com.example.jersey_identificatior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5CuLS4d-s4J3gf-l_Gt3xr5zC9do1qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

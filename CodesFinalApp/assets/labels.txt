@@ -1,0 +1,10 @@
+0 American Bullfrog
+1 Poison Dart Frog
+2 Desert Rain Frog
+3 Glass Frog
+4 Green Tree Frog
+5 Red-eyed Tree Frog
+6 Golden Poison Frog
+7 Northern Leopard Frog
+8 Wood Frog
+9 Surinam Horned Frog
