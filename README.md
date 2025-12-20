@@ -44,14 +44,21 @@ This table shows the frog species this model can classify. Each entry includes a
 
 Below are sample screenshots of the frog classification application, showing the user interface and classification process.
 
-### Home Screen
-<img src="AppScreenshots/home_screen.png" width="250">
+<p align="center">
+  <figure>
+    <img src="AppScreenshots/homepage.jpg" width="220">
+    <figcaption>Home Screen</figcaption>
+  </figure>
+  <figure>
+    <img src="AppScreenshots/camera.jpg" width="220">
+    <figcaption>Camera View</figcaption>
+  </figure>
+  <figure>
+    <img src="AppScreenshots/detection_result.jpg" width="220">
+    <figcaption>Detection Result</figcaption>
+  </figure>
+</p>
 
-### Camera View
-<img src="AppScreenshots/camera.jpg" width="250">
-
-### Detection Result
-<img src="AppScreenshots/detection_result.jpg" width="250">
 
 
 
