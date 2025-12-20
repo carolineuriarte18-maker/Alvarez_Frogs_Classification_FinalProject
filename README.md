@@ -1,5 +1,5 @@
 
-# 🐸 Alvarez Frogs Classification Final Project
+# 🐸 Frogs Classification Project
 
 ## 📌 Project Description
 
@@ -28,8 +28,8 @@ This table shows the frog species this model can classify. Each entry includes a
 
 | **Image** | **Class Name** | **Scientific Name** | **Description** |
 |------------|----------------|---------------------|------------------|
-| ![American Bullfrog](https://via.placeholder.com/60) | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak; found in freshwater ponds and lakes. |
-| ![Poison Dart Frog](https://via.placeholder.com/60) | **Poison Dart Frog** | *Dendrobatidae* (family) | Brightly colored small frogs with potent skin toxins, living in tropical forests. :contentReference[oaicite:0]{index=0} |
+| ![American Bullfrog](images/american_bullfrog.jpg) | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak; found in freshwater ponds and lakes. |
+| ![Poison Dart Frog](poison_dart_frog.jpg) | **Poison Dart Frog** | *Dendrobatidae* (family) | Brightly colored small frogs with potent skin toxins, living in tropical forests. :contentReference[oaicite:0]{index=0} |
 | ![Desert Rain Frog](https://via.placeholder.com/60) | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal environments. |
 | ![Glass Frog](https://via.placeholder.com/60) | **Glass Frog** | *Hyalinobatrachium fleischmanni* | Semi-transparent skin reveals internal organs; arboreal forest frog. :contentReference[oaicite:1]{index=1} |
 | ![Green Tree Frog](https://via.placeholder.com/60) | **Green Tree Frog** | *Hyla cinerea* / similar | Bright green tree-dwelling frog with sticky toe pads. |
@@ -41,9 +41,4 @@ This table shows the frog species this model can classify. Each entry includes a
 
 ---
 
-## 📌 Notes
 
-- Thumbnails currently use **placeholder URLs**. Replace them with your own images hosted in the repository under an `images/` folder or similar.  
-  Example:  
-  ```markdown
-  ![American Bullfrog](images/american_bullfrog.jpg)
