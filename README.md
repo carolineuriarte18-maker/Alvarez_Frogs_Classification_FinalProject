@@ -1,11 +1,11 @@
 
 # 🐸 Frogs Classification Project
 
-## 📌 Project Description
+##  Project Description
 
 This project is a **machine learning classification system** that identifies different frog species from images using a trained TensorFlow Lite model. It can be used in mobile apps, desktop apps, or embedded systems to classify frogs in real time. The repository includes the trained model, screenshots of classification results, and example outputs.  
 
-## 🎯 Why This Project Was Created
+##  Why This Project Was Created
 
 This project was created to:
 - Demonstrate the use of **TensorFlow Lite** for image classification tasks.
@@ -22,7 +22,7 @@ This project was created to:
 
 ---
 
-## 🐸 Frog Species Reference Table
+##  Frog Species Reference Table
 
 This table shows the frog species this model can classify. Each entry includes an images, common name, scientific name, and a brief description.
 
@@ -51,7 +51,9 @@ Below are sample screenshots of the frog classification application, showing the
 </p>
 
 
+Enjoy exploring frog species? Feel free to contribute or share your findings!  
 
+👤 Author: Caroline Alvarez
 
 ---
 
