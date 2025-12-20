@@ -53,7 +53,8 @@ Below are sample screenshots of the frog classification application, showing the
 </p>
 
 
-Enjoy exploring frog species? Feel free to contribute or share your findings!  
+
+ Excited to try out the Flutter App Detector? Feel free to contribute or share your feedback!
 
 👤 Author: Caroline Alvarez
 
