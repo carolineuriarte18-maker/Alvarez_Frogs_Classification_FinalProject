@@ -28,7 +28,7 @@ This table shows the frog species this model can classify. Each entry includes a
 
 | **Image** | **Class Name** | **Scientific Name** | **Description** |
 |------------|----------------|---------------------|------------------|
-| ![American Bullfrog](images/american_bullfrog.jpg) | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak; found in freshwater ponds and lakes. |
+| ![American Bullfrog](assets/images/american_bullfrog.jpg) | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak; found in freshwater ponds and lakes. |
 | ![Poison Dart Frog](poison_dart_frog.jpg) | **Poison Dart Frog** | *Dendrobatidae* (family) | Brightly colored small frogs with potent skin toxins, living in tropical forests. :contentReference[oaicite:0]{index=0} |
 | ![Desert Rain Frog](https://via.placeholder.com/60) | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal environments. |
 | ![Glass Frog](https://via.placeholder.com/60) | **Glass Frog** | *Hyalinobatrachium fleischmanni* | Semi-transparent skin reveals internal organs; arboreal forest frog. :contentReference[oaicite:1]{index=1} |
