@@ -28,28 +28,30 @@ This table shows the frog species this model can classify. Each entry includes a
 
 | Image | Class Name | Scientific Name | Description |
 |------|------------|------------------|-------------|
-| <img src="CodesFinalApp/assets/images/american_bullfrog.jpg" width="90"> | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak and freshwater habitat. |
-| <img src="CodesFinalApp/assets/images/poison_dart_frog.jpg" width="90"> | **Poison Dart Frog** | *Dendrobatidae* | Brightly colored frogs with toxic skin secretions. |
-| <img src="CodesFinalApp/assets/images/desert_rain_frog.jpg" width="90"> | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal deserts. |
-| <img src="CodesFinalApp/assets/images/glass_frog.jpg" width="90"> | **Glass Frog** | *Centrolenidae* | Frog with semi-transparent belly skin. |
-| <img src="CodesFinalApp/assets/images/green_tree_frog.jpg" width="90"> | **Green Tree Frog** | *Hyla cinerea* | Arboreal frog with sticky toe pads for climbing. |
-| <img src="CodesFinalApp/assets/images/red_eyed_tree_frog.jpg" width="90"> | **Red-eyed Tree Frog** | *Agalychnis callidryas* | Green frog with red eyes, active at night. |
-| <img src="CodesFinalApp/assets/images/golden_poison_frog.jpg" width="90"> | **Golden Poison Frog** | *Phyllobates terribilis* | One of the most toxic animals in the world. |
-| <img src="CodesFinalApp/assets/images/northern_leopard_frog.jpg" width="90"> | **Northern Leopard Frog** | *Lithobates pipiens* | Spotted frog found in wetlands and grasslands. |
-| <img src="CodesFinalApp/assets/images/wood_frog.jpg" width="90"> | **Wood Frog** | *Lithobates sylvaticus* | Forest frog that can survive freezing temperatures. |
-| <img src="CodesFinalApp/assets/images/surinam_horned_frog.jpg" width="90"> | **Surinam Horned Frog** | *Ceratophrys cornuta* | Large ambush predator with horn-like eye projections. |
+| <img src="CodesFinalApp/assets/images/american_bullfrog.jpg" width="100"> | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak and freshwater habitat. |
+| <img src="CodesFinalApp/assets/images/poison_dart_frog.jpg" width="100"> | **Poison Dart Frog** | *Dendrobatidae* | Brightly colored frogs with toxic skin secretions. |
+| <img src="CodesFinalApp/assets/images/desert_rain_frog.jpg" width="100"> | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal deserts. |
+| <img src="CodesFinalApp/assets/images/glass_frog.jpg" width="100"> | **Glass Frog** | *Centrolenidae* | Frog with semi-transparent belly skin. |
+| <img src="CodesFinalApp/assets/images/green_tree_frog.jpg" width="100"> | **Green Tree Frog** | *Hyla cinerea* | Arboreal frog with sticky toe pads for climbing. |
+| <img src="CodesFinalApp/assets/images/red_eyed_tree_frog.jpg" width="100"> | **Red-eyed Tree Frog** | *Agalychnis callidryas* | Green frog with red eyes, active at night. |
+| <img src="CodesFinalApp/assets/images/golden_poison_frog.jpg" width="100"> | **Golden Poison Frog** | *Phyllobates terribilis* | One of the most toxic animals in the world. |
+| <img src="CodesFinalApp/assets/images/northern_leopard_frog.jpg" width="100"> | **Northern Leopard Frog** | *Lithobates pipiens* | Spotted frog found in wetlands and grasslands. |
+| <img src="CodesFinalApp/assets/images/wood_frog.jpg" width="100"> | **Wood Frog** | *Lithobates sylvaticus* | Forest frog that can survive freezing temperatures. |
+| <img src="CodesFinalApp/assets/images/surinam_horned_frog.jpg" width="100"> | **Surinam Horned Frog** | *Ceratophrys cornuta* | Large ambush predator with horn-like eye projections. |
 
 
 ## 📱 App Screenshots
 
 Below are sample screenshots of the frog classification application, showing the user interface and classification process.
 
-<p align="center">
-  ## Home Screen
-  <img src="AppScreenshots/homepage.jpg" width="200">
-  <img src="AppScreenshots/camera_view.png" width="200">
-  <img src="AppScreenshots/classification_result.png" width="200">
-</p>
+### Home Screen
+<img src="AppScreenshots/home_screen.png" width="250">
+
+### Camera View
+<img src="AppScreenshots/camera.jpg" width="250">
+
+### Detection Result
+<img src="AppScreenshots/detection_result.jpg" width="250">
 
 
 
