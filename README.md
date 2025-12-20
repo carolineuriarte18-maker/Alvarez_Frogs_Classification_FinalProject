@@ -26,11 +26,9 @@ This project was created to:
 
 This table shows the frog species this model can classify. Each entry includes an images, common name, scientific name, and a brief description.
 
-## 🐸 Frog Species Reference Table
-
 | Image | Class Name | Scientific Name | Description |
 |------|------------|------------------|-------------|
-| <img src="CodesFinalApp/assets/images/american_bullfrog.jpg" width="60"> | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak and freshwater habitat. |
+| <img src="CodesFinalApp/assets/images/american_bullfrog.jpg" width="70"> | **American Bullfrog** | *Lithobates catesbeianus* | A large frog known for its deep croak and freshwater habitat. |
 | <img src="CodesFinalApp/assets/images/poison_dart_frog.jpg" width="60"> | **Poison Dart Frog** | *Dendrobatidae* | Brightly colored frogs with toxic skin secretions. |
 | <img src="CodesFinalApp/assets/images/desert_rain_frog.jpg" width="60"> | **Desert Rain Frog** | *Breviceps macrops* | Small burrowing frog adapted to sandy coastal deserts. |
 | <img src="CodesFinalApp/assets/images/glass_frog.jpg" width="60"> | **Glass Frog** | *Centrolenidae* | Frog with semi-transparent belly skin. |
